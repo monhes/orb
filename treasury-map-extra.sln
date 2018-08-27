@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "treasury-map-extra", ".", "{4B4A997D-8D29-44B4-8249-B2AF8C1A43ED}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50737"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\treasury-map-extra\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50737\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50737"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\treasury-map-extra\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50737\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50737"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B4A997D-8D29-44B4-8249-B2AF8C1A43ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4A997D-8D29-44B4-8249-B2AF8C1A43ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD499FDB-84E0-4CE6-9FDE-3FD26342F4DD}
+	EndGlobalSection
+EndGlobal
